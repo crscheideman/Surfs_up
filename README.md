@@ -10,6 +10,6 @@
 *
 *
 
-![June Temps](resources/june_temp.png)
+![June Temps](resources/june_temps.png)
 
 ## Summary
