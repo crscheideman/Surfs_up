@@ -16,8 +16,10 @@
 ## Summary
 * When comparing the temperature differences between the months of June and December, we also get a decent look at the temperature differences between to drastically different seasons in the summer and winter. The results show us that there is not a major difference in the day-to-day temperatures between the two months. While December will be a little cooler, it will only be by a few degrees.
 * The below image shows the descriptive statistics for precipitation in June and December.
+
 ![Precipitation Data](Resources/prcp_data.png)
+
 * In the same vein as the temperature results, there is not a large difference between the two months.The mean precipitation amount is less than 0.1 apart.
 * Both months' standard deviation are less than 1, showing that the data very reliable
-In the end the data shows us that Oahu is a great location to be the home of the surf and ice cream shop. It has predictable weather that is warm and mostly dry.
+* In the end the data shows us that Oahu is a great location to be the home of the surf and ice cream shop. It has predictable weather that is warm and mostly dry.
 
