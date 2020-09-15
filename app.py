@@ -26,7 +26,7 @@ app = Flask(__name__)
 def welcome():
     return(
     '''
-    Welcome to the Climate Analysis API! 
+    Welcome to the Climate Analysis API!\n 
     Available Routes:
     /api/v1.0/precipitation
     /api/v1.0/stations
